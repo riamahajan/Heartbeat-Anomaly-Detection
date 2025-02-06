@@ -12,12 +12,11 @@ This project aims to detect heartbeat anomalies using a deep learning model, spe
 ## Installation
 Clone this repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/heartbeat-anomaly-detection.git
+git clone https://github.com/riamahajan/Heartbeat-Anomaly-Detection.git
 ```
-Navigate to the project directory and install the required packages:
+Navigate to the project directory:
 ```bash
 cd heartbeat-anomaly-detection
-pip install -r requirements.txt
 ```
 
 ## Usage
@@ -38,4 +37,4 @@ The system outputs whether the analyzed heartbeat sound is normal or abnormal, p
 Contributions are welcome! Please fork the repository and submit pull requests with any enhancements, bug fixes, or improvements.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the CC0 1.0 Universal (CC0 1.0) Public Domain Dedication - see the LICENSE file for details.
