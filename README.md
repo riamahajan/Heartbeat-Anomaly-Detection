@@ -1,2 +1,0 @@
-# HBAD
-Heartbeat Anomaly Detection
