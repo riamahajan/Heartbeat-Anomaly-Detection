@@ -37,4 +37,4 @@ The system outputs whether the analyzed heartbeat sound is normal or abnormal, p
 Contributions are welcome! Please fork the repository and submit pull requests with any enhancements, bug fixes, or improvements.
 
 ## License
-This project is licensed under the CC0 1.0 Universal (CC0 1.0) Public Domain Dedication - see the LICENSE file for details. Thank You!
+This project is licensed under the CC0 1.0 Universal (CC0 1.0) Public Domain Dedication - see the LICENSE and me file for details. Thank You!
